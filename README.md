@@ -49,9 +49,9 @@ Botão: button[type=submit]
 ## Calculo Do Big 0
 
 Main.py 
-  varrer página (Selenium) =	O(n)
-  loop de monitoramento = O(k)
-  sistema completo = O(k × n)
+varrer página (Selenium) =	O(n)
+loop de monitoramento = O(k)
+sistema completo = O(k × n)
 
 Validators.py
   Todas as funções são O(1) — verificações simples de string/inteiro.
