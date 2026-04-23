@@ -1,0 +1,67 @@
+2026-04-23 10:34:03 | USER='Paulo Miguel' | Sistema iniciado.
+2026-04-23 10:34:24 | USER='Paulo Miguel' | Entrada fornecida para 'URL da página do leilão:': 'https://www.google.com/search?q=bitcoin+preco'
+2026-04-23 10:34:24 | USER='Paulo Miguel' | URL do leilão informada: https://www.google.com/search?q=bitcoin+preco
+2026-04-23 10:34:43 | USER='Paulo Miguel' | Entrada fornecida para 'Texto/rótulo próximo ao preço (ex: 'Lance Atual', 'Preço'):': 'Preço'
+2026-04-23 10:34:43 | USER='Paulo Miguel' | Campo a monitorar: 'Preço'
+2026-04-23 10:34:49 | USER='Paulo Miguel' | Entrada fornecida para 'Timeout das requisições em segundos (ex: 10):': '10'
+2026-04-23 10:34:55 | USER='Paulo Miguel' | Entrada fornecida para 'Intervalo de verificação em segundos (ex: 5):': '5'
+2026-04-23 10:34:55 | USER='Paulo Miguel' | Timeout=10s, Intervalo=5s
+2026-04-23 10:36:53 | USER='Paulo' | Sistema iniciado.
+2026-04-23 10:36:59 | USER='Paulo' | Entrada fornecida para 'URL da página do leilão:': 'https://www.google.com/search?q=bitcoin+preco'
+2026-04-23 10:36:59 | USER='Paulo' | URL do leilão informada: https://www.google.com/search?q=bitcoin+preco
+2026-04-23 10:37:05 | USER='Paulo' | Entrada fornecida para 'Texto/rótulo próximo ao preço (ex: 'Lance Atual', 'Preço'):': 'Preço'
+2026-04-23 10:37:05 | USER='Paulo' | Campo a monitorar: 'Preço'
+2026-04-23 10:37:07 | USER='Paulo' | Entrada fornecida para 'Timeout das requisições em segundos (ex: 10):': '10'
+2026-04-23 10:37:07 | USER='Paulo' | Entrada fornecida para 'Intervalo de verificação em segundos (ex: 5):': '5'
+2026-04-23 10:37:07 | USER='Paulo' | Timeout=10s, Intervalo=5s
+2026-04-23 10:37:18 | USER='Paulo' | Entrada fornecida para 'URL da página para notificação (ex: https://mail.google.com):': 'https://www.google.com'
+2026-04-23 10:37:33 | USER='Paulo' | Página destino: https://www.google.com | campo='textarea' | botão='input[type=submit]'
+2026-04-23 10:37:34 | USER='Paulo' | Campo não encontrado na verificação inicial. Sistema encerrado.
+2026-04-23 10:38:15 | USER='Paulo' | Sistema iniciado.
+2026-04-23 10:38:18 | USER='Paulo' | Entrada fornecida para 'URL da página do leilão:': 'https://www.google.com/search?q=bitcoin+preco'
+2026-04-23 10:38:18 | USER='Paulo' | URL do leilão informada: https://www.google.com/search?q=bitcoin+preco
+2026-04-23 10:38:31 | USER='Paulo' | Entrada fornecida para 'Texto/rótulo próximo ao preço (ex: 'Lance Atual', 'Preço'):': 'Bitcoin'
+2026-04-23 10:38:31 | USER='Paulo' | Campo a monitorar: 'Bitcoin'
+2026-04-23 10:38:36 | USER='Paulo' | Entrada fornecida para 'Timeout das requisições em segundos (ex: 10):': '10'
+2026-04-23 10:38:39 | USER='Paulo' | Entrada fornecida para 'Intervalo de verificação em segundos (ex: 5):': '5'
+2026-04-23 10:38:39 | USER='Paulo' | Timeout=10s, Intervalo=5s
+2026-04-23 10:38:50 | USER='Paulo' | Entrada fornecida para 'URL da página para notificação (ex: https://mail.google.com):': 'https://www.google.com'
+2026-04-23 10:39:01 | USER='Paulo' | Página destino: https://www.google.com | campo='textarea' | botão='input[type=submit]'
+2026-04-23 10:39:01 | USER='Paulo' | Campo não encontrado na verificação inicial. Sistema encerrado.
+2026-04-23 10:48:40 | USER='paulo' | Sistema iniciado.
+2026-04-23 10:48:47 | USER='paulo' | Entrada fornecida para 'URL da página do leilão:': 'https://www.mercadolivre.com.br/modus-garrafa-termica-inox-24l-preta-parede-dupla-isolada-48h-para-agua-e-cafe/p/MLB50240207?pdp_filters=deal%3AMLB1487775-2#polycard_client=splinter&c_element_order=2&deal_print_id=a991f2d0-3f1a-11f1-80de-bfc26586b0c2&L=melhores-ofertas&type=product&c_tracking_id=a991f2d0-3f1a-11f1-80de-bfc26586b0c2&c_uid=be93f9f4-2797-30fe-81bf-5529cf9cad6f&V=2&c_campaign=melhores-ofertas&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=2&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLB1487775-1&c_global_position=5&c_element_id=be93f9f4-2797-30fe-81bf-5529cf9cad6f&wid=MLB5403317024&sid=splinter'
+2026-04-23 10:48:47 | USER='paulo' | URL do leilão informada: https://www.mercadolivre.com.br/modus-garrafa-termica-inox-24l-preta-parede-dupla-isolada-48h-para-agua-e-cafe/p/MLB50240207?pdp_filters=deal%3AMLB1487775-2#polycard_client=splinter&c_element_order=2&deal_print_id=a991f2d0-3f1a-11f1-80de-bfc26586b0c2&L=melhores-ofertas&type=product&c_tracking_id=a991f2d0-3f1a-11f1-80de-bfc26586b0c2&c_uid=be93f9f4-2797-30fe-81bf-5529cf9cad6f&V=2&c_campaign=melhores-ofertas&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=2&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLB1487775-1&c_global_position=5&c_element_id=be93f9f4-2797-30fe-81bf-5529cf9cad6f&wid=MLB5403317024&sid=splinter
+2026-04-23 10:48:53 | USER='paulo' | Entrada fornecida para 'Texto/rótulo próximo ao preço (ex: 'Lance Atual', 'Preço'):': 'Reais'
+2026-04-23 10:48:53 | USER='paulo' | Campo a monitorar: 'Reais'
+2026-04-23 10:48:58 | USER='paulo' | Entrada fornecida para 'Timeout das requisições em segundos (ex: 10):': '10'
+2026-04-23 10:48:59 | USER='paulo' | Entrada fornecida para 'Intervalo de verificação em segundos (ex: 5):': '30'
+2026-04-23 10:48:59 | USER='paulo' | Timeout=10s, Intervalo=30s
+2026-04-23 10:49:51 | USER='paulo' | Entrada fornecida para 'URL da página para notificação (ex: https://mail.google.com):': 'https://pastebin.com'
+2026-04-23 10:50:01 | USER='paulo' | Página destino: https://pastebin.com | campo='#postform-text' | botão='#submit'
+2026-04-23 10:50:01 | USER='paulo' | Erro na verificação inicial: 403 Client Error: Forbidden for url: https://www.mercadolivre.com.br/modus-garrafa-termica-inox-24l-preta-parede-dupla-isolada-48h-para-agua-e-cafe/p/MLB50240207?pdp_filters=deal%3AMLB1487775-2#polycard_client=splinter&c_element_order=2&deal_print_id=a991f2d0-3f1a-11f1-80de-bfc26586b0c2&L=melhores-ofertas&type=product&c_tracking_id=a991f2d0-3f1a-11f1-80de-bfc26586b0c2&c_uid=be93f9f4-2797-30fe-81bf-5529cf9cad6f&V=2&c_campaign=melhores-ofertas&c_id=%2Fsplinter%2Fcarouseldynamicitem&position=2&c_label=%2Fsplinter%2Fcarouseldynamicitem&c_container_id=MLB1487775-1&c_global_position=5&c_element_id=be93f9f4-2797-30fe-81bf-5529cf9cad6f&wid=MLB5403317024&sid=splinter
+2026-04-23 10:54:07 | USER='Paulo' | Sistema iniciado
+2026-04-23 10:56:15 | USER='paulo' | Sistema iniciado
+2026-04-23 11:00:16 | USER='PAULO' | Sistema iniciado
+2026-04-23 11:02:12 | USER='PAULO' | Mudança: 1.0 → 7.0
+2026-04-23 11:04:46 | USER='PAULO' | Sistema iniciado
+2026-04-23 11:12:37 | USER='Paulo' | Sistema iniciado
+2026-04-23 11:39:41 | USER='Paulo' | Sistema iniciado
+2026-04-23 11:44:02 | USER='paulo' | Sistema iniciado
+2026-04-23 11:48:57 | USER='Paulo' | Sistema iniciado
+2026-04-23 11:55:48 | USER='Paulo' | Sistema iniciado
+2026-04-23 11:59:59 | USER='Paulo' | Sistema iniciado
+2026-04-23 12:03:55 | USER='Paulo' | Sistema iniciado
+2026-04-23 12:06:14 | USER='Paulo' | Sistema iniciado
+2026-04-23 12:11:10 | USER='Paulo' | Mudança: 4.97 → 4.96
+2026-04-23 12:36:38 | USER='Paulo' | Sistema iniciado
+2026-04-23 12:40:33 | USER='Paulo' | Sistema iniciado
+2026-04-23 12:42:16 | USER='paulo' | Sistema iniciado
+2026-04-23 12:43:50 | USER='paulo' | Sistema iniciado
+2026-04-23 12:44:41 | USER='paulo' | Sistema iniciado
+2026-04-23 12:48:05 | USER='paulo' | Mudança: 4.96 → 4.97
+2026-04-23 15:04:38 | USER='paulo' | Sistema iniciado
+2026-04-23 15:07:03 | USER='paulo' | Mudança: 5.0 → 4.99
+2026-04-23 15:33:57 | USER='paulo' | Sistema iniciado
+2026-04-23 15:34:34 | USER='paulo' | Sistema iniciado
+2026-04-23 15:39:07 | USER='paulo' | Mudança: 4.99 → 5.0
+2026-04-23 15:41:29 | USER='paulo' | Sistema iniciado
